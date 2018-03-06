@@ -46,8 +46,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h4>This Dwarf Fortress Carpentry workshop will help you get started Having Fun with Dwarf Fortress. Taught by some of the highest experts in the art of Fun from Boatmurdered itself, this workshop will ease you into the Fun experience by taking you step-by-step through constructing your first fortress, from choosing a location to building a drawbridge to fighting the goblins and establishing trade links with other kingdoms.</h4>
-
 <h2 id="general">General Information</h2>
 
 {% comment %}
